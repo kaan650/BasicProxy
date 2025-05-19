@@ -3,6 +3,7 @@
 // List of domains
 // Would of preferred to use JSON, but CF doesn't allow `require("fs")`
 const domains = [
+    "auth",
     "apis",
     "assetdelivery",
     "avatar",
